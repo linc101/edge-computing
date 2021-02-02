@@ -1,0 +1,8 @@
+.user-img{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+}
+.user-dropdown >ul >li{
+    text-align: center;
+}

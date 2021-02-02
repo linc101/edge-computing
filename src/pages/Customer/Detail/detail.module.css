@@ -1,0 +1,56 @@
+.wrap-layout-center{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    padding: 20px 20px;
+    background-color: white;
+}
+
+.wrap-layout-center > div{
+    margin-bottom: 20px;
+}
+
+.detail-info{
+    width: 100%;
+    min-height: 100px;
+    background-color: #f8f8f8;
+}
+
+.detail-info-header{
+    height: 26px;
+    text-align: left;
+    background-color: #f8f8f8;
+}
+
+.detail-info-title{
+    width: 150px;
+    text-align: center;
+    color: white;
+    padding: 2px 5px;
+    background-color: #4a94db;
+    margin: 0px;
+}
+
+.detail-info-content{
+    height: 124px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.detail-card{
+    width: 100%;
+}
+
+.detail-charts-card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 200px;
+}
+
+.detail-charts-card div{
+    display: inline-block;
+    flex:1
+}

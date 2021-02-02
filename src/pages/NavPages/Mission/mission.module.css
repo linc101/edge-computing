@@ -1,0 +1,22 @@
+.mission-img{
+    font-size: 18px;
+    color: #2d3344!important;
+    position: relative;
+    top: 2px;
+}
+.mission-dropdown >ul >li{
+    text-align: center;
+}
+.mission-notice{
+    color: #ff0000;
+    font-weight: bold;
+    font-size: 14px;
+    position: relative;
+    bottom: 8px;
+    margin-right: 3px;
+}
+.mission-count{
+    color: #909399;
+    position: relative;
+    bottom: 4px;
+}

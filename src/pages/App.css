@@ -1,0 +1,31 @@
+.common-two-line-layout{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    max-height: 600px;
+    padding: 20px 0px;
+}
+.common-column-layout{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.fake-link{
+    color: #4a94db;
+    cursor: pointer;
+}
+
+.info-form-layout{
+    position: relative;
+    line-height: 32px;
+}
+.info-form-title{
+    width: 110px;
+    text-align: right;
+    position: absolute;
+}
+.info-form-content{
+    padding-left: 120px;
+}

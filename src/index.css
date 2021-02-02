@@ -1,0 +1,63 @@
+html, body, #root {
+  height: 100%;
+  font-size: 14px;
+  color: #434c55;
+}
+html, body, div, span, iframe,
+h1, h2, h3, h4, h5, h6, p, pre,
+a, abbr, address, code, img,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas,
+figure, figcaption, footer, header, hgroup,
+menu, nav, section, audio, video {
+   margin: 0;
+   padding: 0;
+   border: 0;
+   font-size: 100%;
+   font: inherit;
+   vertical-align: baseline;
+}
+body {
+   line-height: 1;
+}
+ol, ul {
+   list-style: none;
+}
+a,
+a:link,
+a:visited,
+a:hover,
+a:active {
+  text-decoration: none;
+}
+q {
+   quotes: none;
+}
+q:before, q:after {
+   content: '';
+   content: none;
+}
+table {
+   border-collapse: collapse;
+   border-spacing: 0;
+}
+body {
+  font-family: Pingfang-SC, Roboto, Helvetica Neue,Microsoft YaHei!important;
+}
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+input {
+  outline: none;
+}
+::-webkit-input-placeholder {
+  color: #C6C9CD;
+}
+::-moz-placeholder {
+  color: #C6C9CD;
+}
+::-ms-input-placeholder {
+  color: #C6C9CD;
+}

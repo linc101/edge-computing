@@ -1,0 +1,9 @@
+.language-img{
+    font-size: 22px;
+    color: #2d3344!important;
+    position: relative;
+    top: 2.5px;
+}
+.language-dropdown >ul >li{
+    text-align: center;
+}

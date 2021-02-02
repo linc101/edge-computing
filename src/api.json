@@ -1,0 +1,8 @@
+{
+	"user": "/user",
+	"node": "/node",
+	"namespace": "/namespace",
+	"deployment": "/deployment",
+	"pod": "/pod",
+	"proxy": "/api"
+}

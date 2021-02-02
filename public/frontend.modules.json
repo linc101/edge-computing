@@ -1,0 +1,15 @@
+[
+	{
+		"path": [
+			"/overview",
+			"/infrastructure",
+			"/tenant",
+			"/resourceCenter",
+			"/applicationModel",
+			"/securityCenter",
+			"/system"
+		],
+		"title": "Harmonycloud",
+		"entry": "http://localhost:3001"
+	}
+]

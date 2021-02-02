@@ -1,0 +1,33 @@
+.menu-layouts{
+	background-color: #f8f8f8;
+}
+.menu-container{
+	position: relative;
+	width: 220px;
+	height: 100%;
+	padding-top: 20px;
+	border-radius: 0 10px 0 0;
+	background-color: #2F3446!important;
+}
+.menu-container-collapsed{
+	position: relative;
+	height: 100%;
+	padding-top: 20px;
+	background-color: #2F3446!important;
+}
+.menu-icon{
+	position: relative;
+	bottom: 1px;
+}
+.menu-collapsed{
+	position: fixed;
+	bottom: 14px;
+	left: 40px;
+	cursor:pointer;
+}
+.menu-un-collapsed{
+	position: fixed;
+	bottom: 14px;
+	left: 180px;
+	cursor:pointer;
+}

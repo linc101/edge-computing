@@ -1,0 +1,22 @@
+.notice-img{
+    font-size: 22px;
+    color: #2d3344!important;
+    position: relative;
+    top: 1px;
+}
+.notice-dropdown >ul >li{
+    text-align: center;
+}
+.notice-notice{
+    color: #ff0000;
+    font-weight: bold;
+    font-size: 14px;
+    position: relative;
+    bottom: 8px;
+    margin-right: 2px;
+}
+.notice-count{
+    color: #909399;
+    position: relative;
+    bottom: 4px;
+}

@@ -1,0 +1,19 @@
+.fullscreen-layout > div{
+    width: 100vw;
+    height: 100vh;
+}
+.flex-layout{
+    display: flex;
+    min-height: 100vh;
+    overflow: auto;
+}
+.flex-left{
+    width: 200px;
+}
+.flex-right{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    background-color: #f8f8f8;
+    overflow: hidden;
+}

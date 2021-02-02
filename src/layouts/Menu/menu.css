@@ -1,0 +1,42 @@
+/* .rc-menu-item{
+	padding: 6px 8px 6px 56px !important;
+}
+.rc-menu-submenu-title {
+	padding: 6px 8px 6px 56px !important;
+}
+.rc-menu-sub.rc-menu-inline {
+	padding-top: 6px;
+}
+.rc-menu-item-active,
+.rc-menu-submenu .rc-menu-item-selected {
+	background-color: transparent;
+}
+.rc-menu-submenu-active > .rc-menu-submenu-title {
+  background-color: #39434E;
+}
+.rc-menu-sub.rc-menu-inline {
+	background: #29333F;
+}
+.rc-menu-item-active:hover a {
+	color: #fff;
+}
+.rc-menu-item-selected{
+	background-color: #49A9E1!important;
+}
+.rc-menu-item-selected a{
+	color: #fff!important;
+}
+.rc-menu-sub .rc-menu-item-selected{
+	background-color:transparent!important;
+}
+.rc-menu-sub .rc-menu-item-selected a{
+	color: #49A9E1!important;
+}
+.rc-menu-submenu-open,
+.rc-menu-submenu-open > .rc-menu-submenu-title {
+	color: #fff;
+    background-color: #49a9e1 !important;
+}
+.rc-menu-item-selected i{
+	background-image: url(../../assets/images/mi-customer-click.png)!important;
+} */
